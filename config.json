@@ -1,0 +1,15 @@
+{
+    "host": "localhost",
+    "port": 8084,
+    "upstream_host": "localhost",
+    "upstream_port": 1234,
+    "patch": [
+        ["Gerben Aaltink", "retoor"],
+        ["github","molode"],
+        ["gmail.com", "molod.net"],
+        ["Gerben","retoor"],
+        ["Retoor","retoor"],
+        ["Aaltink",""],
+        ["1234","8430"]
+    ]
+}
